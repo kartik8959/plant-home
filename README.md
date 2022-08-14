@@ -21,7 +21,7 @@
 -Screenshot
 
 ![Screenshot](./photos/plant-home-ss.png?raw=true) 
-## 📌 **Live Site URL:** <a href="https://kartik-jodhani-street-site-landing.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://kartikjodhani-plant-home-page.netlify.app/"  target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 What I Learnt
 
